@@ -1,0 +1,2 @@
+(this.webpackJsonpcelano=this.webpackJsonpcelano||[]).push([[4],{45:function(n,t,c){"use strict";c.r(t),c.d(t,"default",(function(){return u}));var e=c(1);c(0);function u(){return Object(e.jsx)("div",{children:"About"})}}}]);
+//# sourceMappingURL=4.85de6b0b.chunk.js.map
